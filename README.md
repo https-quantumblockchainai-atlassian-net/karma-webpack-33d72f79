@@ -14,6 +14,7 @@
     <img width="200" height="200"
       src="https://cdn.rawgit.com/webpack/media/e7485eb2/logo/icon.svg">
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fkarma-webpack-33d72f79?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fkarma-webpack-33d72f79.svg?type=shield"/></a>
   <h1>Karma Webpack</h1>
   <p>Use webpack to preprocess files in karma<p>
 </div>
@@ -234,3 +235,7 @@ Previous maintainers of the `karma-webpack` plugin that have done such amazing w
 
 [cover]: https://codecov.io/gh/webpack-contrib/karma-webpack/branch/master/graph/badge.svg
 [cover-url]: https://codecov.io/gh/webpack-contrib/karma-webpack
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fkarma-webpack-33d72f79.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fkarma-webpack-33d72f79?ref=badge_large)
